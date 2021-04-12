@@ -4,6 +4,7 @@ public class Deneme {
 
 	public static void main(String[] args) {
 		System.out.println("hcsdc");
+		System.out.println("git den yapilan yeni kod yazimi");
 
 	}
 
