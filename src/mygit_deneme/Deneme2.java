@@ -6,6 +6,7 @@ public class Deneme2 {
 		// TODO Auto-generated method stub
 		System.out.println("12 nisan denemesi");
 		System.out.println("nasilsiniizzzz");
+		System.out.println("cok sukur sonun da oldu");
 	}
 
 }
