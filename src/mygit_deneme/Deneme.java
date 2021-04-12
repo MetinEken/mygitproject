@@ -12,8 +12,23 @@ public class Deneme {
 		System.out.println("git e gonderilmeyen ve cakisan kod");
 
 		System.out.println("once olusturulan ama cekilmeyen kodlar");	
+<<<<<<< HEAD
 		System.out.println("once olusturulan ama cekilmeyen kodlar");	
 		System.out.println("git e gonderilmeyen ve cakisan kod");
+=======
+		System.out.println("git e gonderilmeyen ve cakisan kod");
+
+		System.out.println("once olusturulan ama cekilmeyen kodlar");	
+		System.out.println("git e gonderilmeyen ve cakisan kod");
+
+		System.out.println("once olusturulan ama cekilmeyen kodlar");System.out.println("git e gonderilmeyen ve cakisan kod");
+
+		System.out.println("once olusturulan ama cekilmeyen kodlar");	
+		System.out.println("git e gonderilmeyen ve cakisan kod");
+
+		System.out.println("once olusturulan ama cekilmeyen kodlar");
+
+>>>>>>> refs/remotes/origin/master
 	}
 
 }
